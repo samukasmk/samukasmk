@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Wellcome to my github profile's page!
+Welcome to my github profile's page!
 
 Here is some important information about me:
 - 🧑🏽‍💻 I'm Samuel Sampaio and I live on São Paulo/Brazil.
