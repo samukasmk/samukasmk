@@ -1,5 +1,76 @@
 ### Hi there 👋
 
+Wellcome to my github profile's page!
+
+Here is some important information about me:
+- 🧑🏽‍💻 I'm Samuel Sampaio and I live on São Paulo/Brazil.
+- 🐍 I'm a software developer more skilled in python programming language.
+- 💼 I'm currently open to work and looking for a new job, if you have any indication of python development, feel free to contact me.
+- 📫 You can reach me by linkedin: https://www.linkedin.com/in/python-dev/
+
+Below is my portfolio with some of my personal projects:
+
+- **django_backoffice**:
+
+  A sample project of implementing business processes within a company's backoffice with django admin.
+  https://github.com/samukasmk/django_backoffice
+  ![image](https://user-images.githubusercontent.com/1859479/229597225-46785603-7e94-4930-ae06-0285a228ad20.png)
+
+
+- **grubhub_crawler**:
+
+  A Crawler for grab Restaurants information from GrubHub platform
+
+  https://github.com/samukasmk/grubhub_crawler 
+  ![Screenshot from 2023-04-03 15-43-16](https://user-images.githubusercontent.com/1859479/229598661-2cfc9366-905d-4e86-9a67-cae7866bc3c1.png)
+
+- **django_xml2json**:
+
+  An online XML to JSON conversion and validation tool
+
+  https://github.com/samukasmk/django_xml2json
+  
+  http://smksamuka.pythonanywhere.com/
+  ![Screenshot from 2023-04-03 15-53-35](https://user-images.githubusercontent.com/1859479/229600827-8d2e3f5a-f75b-44ee-ba4f-5e323c701d56.png)
+
+- **mybills_api**
+
+   A personal techfin SaaS product to manages the expenses in the month (under construction yet).
+   
+   https://github.com/samukasmk/mybills_api
+
+  ![Screenshot from 2023-04-03 16-03-11](https://user-images.githubusercontent.com/1859479/229602651-afd3f005-c5ab-4118-8a1f-8197f6c26f79.png)
+
+- **postcodes**:
+
+  Library to parse postal code format from United Kingdom
+  
+  https://github.com/samukasmk/postcodes
+  
+  https://github.com/samukasmk/postcodes_api
+  
+  
+- **python-useful-collections**:
+
+  Useful collections for manipulate python data like `ImmutableDict`, `LockableDict` and `DiscoverySubModules`
+  
+  https://github.com/samukasmk/python-useful-collections
+
+
+- **api-feiras-livres**:
+
+  A REST API to brazilian local fairs.
+
+  https://api-feiras-livres.readthedocs.io/en/latest/
+  
+  https://github.com/samukasmk/api-feiras-livres
+
+- **introducao-a-pentest-com-python**:
+
+  A talk given at (Garoa Hacker Clube) @garoa about attacks by Google Dorks
+
+  https://github.com/samukasmk/introducao-a-pentest-com-python
+
 <!--
 **samukasmk/samukasmk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +82,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
