@@ -8,7 +8,7 @@ Here is some important information about me:
 - 💼 I'm currently open to work and looking for a new job, if you have any indication of python development, feel free to contact me.
 - 📫 You can reach me by linkedin: https://www.linkedin.com/in/python-dev/
 
-Below is my portfolio with some of my personal projects:
+Here is my portfolio with some of my personal projects:
 
 - **django_backoffice**:
 
