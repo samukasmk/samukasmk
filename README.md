@@ -49,6 +49,8 @@ Here is my portfolio with some of my personal projects:
   
   https://github.com/samukasmk/postcodes_api
   
+  ![Screenshot from 2023-04-03 16-22-20](https://user-images.githubusercontent.com/1859479/229606770-1c51b408-98fb-4eca-922a-944edea42e60.png)
+
   
 - **python-useful-collections**:
 
