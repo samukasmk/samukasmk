@@ -39,8 +39,7 @@ Here is my portfolio with some of my personal projects:
   An online XML to JSON conversion and validation tool
 
   https://github.com/samukasmk/django_xml2json
-  
-  http://smksamuka.pythonanywhere.com/
+
   ![Screenshot from 2023-04-03 15-53-35](https://user-images.githubusercontent.com/1859479/229600827-8d2e3f5a-f75b-44ee-ba4f-5e323c701d56.png)
 
 - **mybills_api**
