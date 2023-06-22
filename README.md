@@ -6,7 +6,7 @@ Here is some important information about me:
 - 🧑🏽‍💻 I'm Samuel Sampaio and I live on São Paulo/Brazil;
 - 🐍 I'm a software developer more skilled in python programming language;
 - 💼 Currently I'm working as a consultant;
-- 📫 You can reach me by LinkedIn: [linkedin.com](https://www.linkedin.com/in/python-dev/), feel free to contact me;
+- 📫 You can reach me by LinkedIn: [Linkedin](https://www.linkedin.com/in/python-dev/), feel free to contact me by sending a direct message;
 
 Here is my portfolio with some of my personal projects:
 
