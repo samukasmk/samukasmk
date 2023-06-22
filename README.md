@@ -29,7 +29,7 @@ Here is my portfolio with some of my personal projects:
 
 - **grubhub_crawler**:
 
-  A Crawler for grab Restaurants information from GrubHub platform with [Python])(https://docs.python.org/3/) and [async.io](https://docs.python.org/3/library/asyncio.html)
+  A Crawler for grab Restaurants information from GrubHub platform with [Python](https://docs.python.org/3/) and [async.io](https://docs.python.org/3/library/asyncio.html)
 
   https://github.com/samukasmk/grubhub_crawler 
   ![Screenshot from 2023-04-03 15-43-16](https://user-images.githubusercontent.com/1859479/229598661-2cfc9366-905d-4e86-9a67-cae7866bc3c1.png)
