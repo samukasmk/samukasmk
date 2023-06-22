@@ -13,18 +13,21 @@ Here is my portfolio with some of my personal projects:
 - **startwars_api**:
 
   This project implements a simple **REST API** using **Flask Framework** and **MongoDB**, with some simple resources for data management for Star Wars saga movies. It was inspired by the API: https://swapi.dev/
+  
   ![image](https://github.com/samukasmk/samukasmk/assets/1859479/37cff71c-4888-4395-9dae-58ce4fdfe7e4)
-
 
 - **django_wallet**:
   
   A straightforward REST API that stores each user's financial transaction records, summarizes spending, and receivables, and balances of transactions by category.
+  
   ![image](https://github.com/samukasmk/samukasmk/assets/1859479/078d3a74-c0fa-4bad-ba86-128ba4fb1c9f)
 
 - **django_backoffice**:
 
   A sample project of implementing business processes within a company's backoffice with django admin.
+  
   https://github.com/samukasmk/django_backoffice
+  
   ![image](https://user-images.githubusercontent.com/1859479/229597225-46785603-7e94-4930-ae06-0285a228ad20.png)
 
 - **grubhub_crawler**:
