@@ -3,10 +3,10 @@
 Welcome to my github profile's page!
 
 Here is some important information about me:
-- 🧑🏽‍💻 I'm Samuel Sampaio and I live on São Paulo/Brazil.
-- 🐍 I'm a software developer more skilled in python programming language.
-- 💼 I'm currently open to work and looking for a new job, if you have any indication of python development, feel free to contact me.
-- 📫 You can reach me by linkedin: https://www.linkedin.com/in/python-dev/
+- 🧑🏽‍💻 I'm Samuel Sampaio and I live on São Paulo/Brazil;
+- 🐍 I'm a software developer more skilled in python programming language;
+- 💼 Currently I'm working as a consultant;
+- 📫 You can reach me by LinkedIn: [linkedin.com/in/python-dev/](https://www.linkedin.com/in/python-dev/), feel free to contact me;
 
 Here is my portfolio with some of my personal projects:
 
