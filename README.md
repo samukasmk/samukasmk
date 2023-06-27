@@ -63,6 +63,43 @@ Here is my portfolio with some of my personal projects:
   
   ![Screenshot from 2023-04-03 16-22-20](https://user-images.githubusercontent.com/1859479/229606770-1c51b408-98fb-4eca-922a-944edea42e60.png)
 
+
+- **multiplicable_numbers**:
+
+  A sample command line tool to generate multiplicable numbers
+
+  ```
+  $ detects-multiplicable-numbers --help
+  usage: detects-multiplicable-numbers [-h] [-m [MULTIPLICABLES ...]] [-i INITIAL_NUMBER] [-f FINAL_NUMBER]
+  
+  A command line tools that tells if is multiple numbers.
+  
+  optional arguments:
+    -h, --help            show this help message and exit
+    -m [MULTIPLICABLES ...], --multiplicables [MULTIPLICABLES ...]
+                          The multiplicable numbers to do the detections.
+    -i INITIAL_NUMBER, --initial-number INITIAL_NUMBER
+                          The initial number to start the iteration
+    -f FINAL_NUMBER, --final-number FINAL_NUMBER
+                          The final number to start the iteration
+  ```
+  
+  ```
+  $ detects-multiplicable-numbers -i 1 -f 50 -m 3 6 9 
+  1
+  2
+  Three
+  4
+  5
+  ThreeSix
+  ...
+  47
+  ThreeSix
+  49
+  50
+  ```
+
+  https://github.com/samukasmk/multiplicable_numbers
   
 - **python-useful-collections**:
 
