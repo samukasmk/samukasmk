@@ -10,19 +10,23 @@ Here is some important information about me:
 
 Here is my portfolio with some of my personal projects:
 
-- **startwars_api**:
+- [**startwars_api**](https://github.com/samukasmk/starwars_api):
 
   This project implements a simple **REST API** using **Flask Framework** and **MongoDB**, with some simple resources for data management for Star Wars saga movies. It was inspired by the API: https://swapi.dev/
+
+  https://github.com/samukasmk/starwars_api
   
   ![image](https://github.com/samukasmk/samukasmk/assets/1859479/37cff71c-4888-4395-9dae-58ce4fdfe7e4)
 
-- **django_wallet**:
+- [**django_wallet**](https://github.com/samukasmk/django_wallet):
   
   A straightforward REST API that stores each user's financial transaction records, summarizes spending, and receivables, and balances of transactions by category.
+
+  https://github.com/samukasmk/django_wallet
   
   ![image](https://github.com/samukasmk/samukasmk/assets/1859479/078d3a74-c0fa-4bad-ba86-128ba4fb1c9f)
 
-- **django_backoffice**:
+- [**django_backoffice**](https://github.com/samukasmk/django_backoffice):
 
   A sample project of implementing business processes within a company's backoffice with django admin.
   
@@ -30,14 +34,15 @@ Here is my portfolio with some of my personal projects:
   
   ![image](https://user-images.githubusercontent.com/1859479/229597225-46785603-7e94-4930-ae06-0285a228ad20.png)
 
-- **grubhub_crawler**:
+- [**grubhub_crawler**](https://github.com/samukasmk/grubhub_crawler):
 
   A Crawler for grab Restaurants information from GrubHub platform with [Python](https://docs.python.org/3/) and [async.io](https://docs.python.org/3/library/asyncio.html)
 
-  https://github.com/samukasmk/grubhub_crawler 
+  https://github.com/samukasmk/grubhub_crawler
+  
   ![Screenshot from 2023-04-03 15-43-16](https://user-images.githubusercontent.com/1859479/229598661-2cfc9366-905d-4e86-9a67-cae7866bc3c1.png)
 
-- **django_xml2json**:
+- [**django_xml2json**](https://github.com/samukasmk/django_xml2json):
 
   An online XML to JSON conversion and validation tool
 
@@ -45,7 +50,7 @@ Here is my portfolio with some of my personal projects:
 
   ![Screenshot from 2023-04-03 15-53-35](https://user-images.githubusercontent.com/1859479/229600827-8d2e3f5a-f75b-44ee-ba4f-5e323c701d56.png)
 
-- **mybills_api**
+- [**mybills_api**](https://github.com/samukasmk/mybills_api)
 
    A personal techfin SaaS product to manages the expenses in the month (under construction yet).
    
@@ -53,7 +58,7 @@ Here is my portfolio with some of my personal projects:
 
   ![Screenshot from 2023-04-03 16-03-11](https://user-images.githubusercontent.com/1859479/229602651-afd3f005-c5ab-4118-8a1f-8197f6c26f79.png)
 
-- **postcodes**:
+- [**postcodes**](https://github.com/samukasmk/postcodes):
 
   Library to parse postal code format from United Kingdom
   
@@ -64,7 +69,7 @@ Here is my portfolio with some of my personal projects:
   ![Screenshot from 2023-04-03 16-22-20](https://user-images.githubusercontent.com/1859479/229606770-1c51b408-98fb-4eca-922a-944edea42e60.png)
 
 
-- **multiplicable_numbers**:
+- [**multiplicable_numbers**](https://github.com/samukasmk/multiplicable_numbers):
 
   A sample command line tool to generate multiplicable numbers
 
@@ -101,14 +106,13 @@ Here is my portfolio with some of my personal projects:
 
   https://github.com/samukasmk/multiplicable_numbers
   
-- **python-useful-collections**:
+- [**python-useful-collections**](https://github.com/samukasmk/python-useful-collections):
 
   Useful collections for manipulate python data like `ImmutableDict`, `LockableDict` and `DiscoverySubModules`
   
   https://github.com/samukasmk/python-useful-collections
 
-
-- **api-feiras-livres**:
+- [**api-feiras-livres**](https://github.com/samukasmk/api-feiras-livres):
 
   A REST API to brazilian local fairs.
 
@@ -116,7 +120,7 @@ Here is my portfolio with some of my personal projects:
   
   https://github.com/samukasmk/api-feiras-livres
 
-- **introducao-a-pentest-com-python**:
+- [**introducao-a-pentest-com-python**](https://github.com/samukasmk/introducao-a-pentest-com-python):
 
   A talk given at (Garoa Hacker Clube) @garoa about attacks by Google Dorks
 
