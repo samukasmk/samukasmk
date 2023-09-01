@@ -46,7 +46,9 @@ Here is my portfolio with some of my personal projects:
 
   https://github.com/samukasmk/django_xml2json
 
-  ![image](https://github.com/samukasmk/samukasmk/assets/1859479/6e892503-6ad1-4279-8e55-0ebc01cf7c05)
+  ![image](https://github.com/samukasmk/django_xml2json/raw/main/.docs/django_xml2json-use.gif)
+
+
 
 - [**grubhub_crawler**](https://github.com/samukasmk/grubhub_crawler):
 
