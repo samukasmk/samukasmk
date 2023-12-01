@@ -2,13 +2,18 @@
 
 Welcome to my github profile's page!
 
-Here is some important information about me:
+### Here is some important information about me:
 - 🧑🏽‍💻 I'm Samuel Sampaio and I live on São Paulo/Brazil;
 - 🐍 I'm a software developer more skilled in python programming language;
 - 💼 Currently I'm working as a consultant;
 - 📫 You can reach me by [LinkedIn](https://www.linkedin.com/in/python-dev/), feel free to contact me by sending a direct message;
 
-Here is my portfolio with some of my personal projects:
+### Here you can find more than 80 tips of #Python and #DevOps
+
+- From my experience acquired over the years: [https://gist.github.com/samukasmk](https://gist.github.com/samukasmk)
+- Including my last post about: [How to profiling memory usage in Python easly](https://gist.github.com/samukasmk/2b0ae5c6f328aa4c650fdaa9a2c5dc92)
+
+### Here is my portfolio with some of my personal projects:
 
 - [**startwars_api**](https://github.com/samukasmk/starwars_api):
 
@@ -32,7 +37,7 @@ Here is my portfolio with some of my personal projects:
 
 - [**django_backoffice**](https://github.com/samukasmk/django_backoffice):
 
-  A sample project of implementing business processes within a company's backoffice with django admin.
+  A sample project of implementing business processes within a company's back office with Django admin.
   
   https://github.com/samukasmk/django_backoffice
   
@@ -52,7 +57,7 @@ Here is my portfolio with some of my personal projects:
 
 - [**grubhub_crawler**](https://github.com/samukasmk/grubhub_crawler):
 
-  A Crawler for grab Restaurants information from GrubHub platform with [Python](https://docs.python.org/3/) and [async.io](https://docs.python.org/3/library/asyncio.html)
+  A Crawler for grabbing Restaurants information from the GrubHub platform with [Python](https://docs.python.org/3/) and [async.io](https://docs.python.org/3/library/asyncio.html)
 
   https://github.com/samukasmk/grubhub_crawler
   
@@ -62,7 +67,7 @@ Here is my portfolio with some of my personal projects:
 
 - [**mybills_api**](https://github.com/samukasmk/mybills_api)
 
-   A personal techfin SaaS product to manages the expenses in the month (under construction yet).
+   A personal techfin SaaS product to manage the expenses in the month (under construction yet).
    
    https://github.com/samukasmk/mybills_api
 
@@ -72,7 +77,7 @@ Here is my portfolio with some of my personal projects:
 
 - [**postcodes**](https://github.com/samukasmk/postcodes):
 
-  Library to parse postal code format from United Kingdom
+  Library to parse postal code format from the United Kingdom
   
   https://github.com/samukasmk/postcodes
   
@@ -123,7 +128,7 @@ Here is my portfolio with some of my personal projects:
   
 - [**python-useful-collections**](https://github.com/samukasmk/python-useful-collections):
 
-  Useful collections for manipulate python data like `ImmutableDict`, `LockableDict` and `DiscoverySubModules`
+  Useful collections for manipulating python data like `ImmutableDict`, `LockableDict` and `DiscoverySubModules`
   
   https://github.com/samukasmk/python-useful-collections
 
@@ -131,7 +136,7 @@ Here is my portfolio with some of my personal projects:
 
 - [**api-feiras-livres**](https://github.com/samukasmk/api-feiras-livres):
 
-  A REST API to brazilian local fairs.
+  A REST API to Brazilian local fairs.
 
   https://api-feiras-livres.readthedocs.io/en/latest/
   
