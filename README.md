@@ -1,12 +1,14 @@
-### Hi there 👋
+### Hi there I'm Samuel Sampaio (@samukasmk) 👋
 
 Welcome to my github profile's page!
 
 ### Here is some important information about me:
-- 🧑🏽‍💻 I'm Samuel Sampaio and I live on São Paulo/Brazil;
-- 🐍 I'm a software developer more skilled in python programming language;
-- 💼 Currently I'm working as a consultant;
-- 📫 You can reach me by [LinkedIn](https://www.linkedin.com/in/python-dev/), feel free to contact me by sending a direct message;
+- 🇧🇷 I'm a software developer from Brazil (São Paulo)
+- 🐍 I'm more skilled in python programming language
+- 🧑🏽‍💻 I've been building web products like (SAAS, PAAS and IAAS) in different teams and organizations, for over of 8 years
+- 🛠️ But I've started my carrier in 2010 as a System Administrator working with Linux environments in cloud platforms 
+- 💼 Currently I'm working as a consultant
+- 📫 You can reach me by [LinkedIn](https://www.linkedin.com/in/python-dev/), feel free to contact me by sending a direct message
 
 ### Here you can find more than 80 tips of #Python and #DevOps
 
