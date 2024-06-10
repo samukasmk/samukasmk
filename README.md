@@ -1,8 +1,8 @@
-### Hi there I'm Samuel Sampaio (@samukasmk) 👋
+## Hi there I'm Samuel Sampaio (@samukasmk) 👋
 
 Welcome to my github profile's page!
 
-### Here is some important information about me:
+## Here is some important information about me:
 - 🇧🇷 I'm a software developer from Brazil (São Paulo)
 - 🐍 I'm more skilled in Python programming language
 - 🧑🏽‍💻 I've been building web products like (SAAS, PAAS, and IAAS) in different teams and organizations for over 8 years
@@ -11,14 +11,14 @@ Welcome to my github profile's page!
 - 📫 You can reach me by LinkedIn feel free to contact me by sending a direct message
 
 
-### Here you can find more than 80 tips of #Python and #DevOps
+## Here you can find more than 80 tips of #Python and #DevOps
 
 - From my experience acquired over the years: [https://gist.github.com/samukasmk](https://gist.github.com/samukasmk)
 - Including my last post about: [How to profiling memory usage in Python easly](https://gist.github.com/samukasmk/2b0ae5c6f328aa4c650fdaa9a2c5dc92)
 
-### Here is my portfolio with some of my personal projects:
+## Here is my portfolio with some of my personal projects:
 
-- [**startwars_api**](https://github.com/samukasmk/starwars_api):
+## • [startwars_api](https://github.com/samukasmk/starwars_api):
 
   This project implements a simple **REST API** using **Flask Framework** and **MongoDB**, with some simple resources for data management for Star Wars saga movies. It was inspired by the API: https://swapi.dev/
 
@@ -27,8 +27,7 @@ Welcome to my github profile's page!
   ![image](https://github.com/samukasmk/samukasmk/assets/1859479/37cff71c-4888-4395-9dae-58ce4fdfe7e4)
 
 
-
-- [**django_wallet**](https://github.com/samukasmk/django_wallet):
+## • [django_wallet](https://github.com/samukasmk/django_wallet):
   
   A straightforward REST API that stores each user's financial transaction records, summarizes spending, and receivables, and balances of transactions by category.
 
@@ -38,7 +37,7 @@ Welcome to my github profile's page!
 
 
 
-- [**django_backoffice**](https://github.com/samukasmk/django_backoffice):
+## • [django_backoffice](https://github.com/samukasmk/django_backoffice):
 
   A sample project of implementing business processes within a company's back office with Django admin.
   
@@ -48,7 +47,7 @@ Welcome to my github profile's page!
 
 
 
-- [**django_xml2json**](https://github.com/samukasmk/django_xml2json):
+## • [django_xml2json](https://github.com/samukasmk/django_xml2json):
 
   An online XML to JSON conversion and validation tool
 
@@ -58,7 +57,7 @@ Welcome to my github profile's page!
 
 
 
-- [**grubhub_crawler**](https://github.com/samukasmk/grubhub_crawler):
+## • [grubhub_crawler](https://github.com/samukasmk/grubhub_crawler):
 
   A Crawler for grabbing Restaurants information from the GrubHub platform with [Python](https://docs.python.org/3/) and [async.io](https://docs.python.org/3/library/asyncio.html)
 
@@ -68,7 +67,7 @@ Welcome to my github profile's page!
 
 
 
-- [**mybills_api**](https://github.com/samukasmk/mybills_api)
+## • [mybills_api](https://github.com/samukasmk/mybills_api)
 
    A personal techfin SaaS product to manage the expenses in the month (under construction yet).
    
@@ -78,7 +77,7 @@ Welcome to my github profile's page!
 
 
 
-- [**postcodes**](https://github.com/samukasmk/postcodes):
+## • [postcodes](https://github.com/samukasmk/postcodes):
 
   Library to parse postal code format from the United Kingdom
   
@@ -90,7 +89,7 @@ Welcome to my github profile's page!
 
 
 
-- [**multiplicable_numbers**](https://github.com/samukasmk/multiplicable_numbers):
+## • [multiple_numbers](https://github.com/samukasmk/multiple_numbers):
 
   A sample command line tool to generate multiplicable numbers
 
@@ -129,7 +128,7 @@ Welcome to my github profile's page!
 
 
   
-- [**python-useful-collections**](https://github.com/samukasmk/python-useful-collections):
+## • [python-useful-collections](https://github.com/samukasmk/python-useful-collections):
 
   Useful collections for manipulating python data like `ImmutableDict`, `LockableDict` and `DiscoverySubModules`
   
@@ -137,7 +136,7 @@ Welcome to my github profile's page!
 
 
 
-- [**api-feiras-livres**](https://github.com/samukasmk/api-feiras-livres):
+## • [api-feiras-livres](https://github.com/samukasmk/api-feiras-livres):
 
   A REST API to Brazilian local fairs.
 
@@ -147,7 +146,7 @@ Welcome to my github profile's page!
 
 
 
-- [**introducao-a-pentest-com-python**](https://github.com/samukasmk/introducao-a-pentest-com-python):
+## • [introducao-a-pentest-com-python](https://github.com/samukasmk/introducao-a-pentest-com-python):
 
   A talk given at (Garoa Hacker Clube) @garoa about attacks by Google Dorks
 
