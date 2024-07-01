@@ -18,7 +18,7 @@ Welcome to my github profile's page!
 
 ## Here is my portfolio with some of my personal projects:
 
-## • [startwars_api](https://github.com/samukasmk/starwars_api):
+## • [starwars_api](https://github.com/samukasmk/starwars_api):
 
   This project implements a simple **REST API** using **Flask Framework** and **MongoDB**, with some simple resources for data management for Star Wars saga movies. It was inspired by the API: https://swapi.dev/
 
