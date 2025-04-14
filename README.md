@@ -8,7 +8,7 @@ Welcome to my github profile's page!
 - 🧑🏽‍💻 I've been building web products like (SAAS, PAAS, and IAAS) in different teams and organizations for over 8 years
 - 🛠️ But I started my career in 2010 as a System Administrator working with Linux environments in cloud platforms
 - 💼 Currently I'm working as a consultant to [ChatGuru company](https://chatguru.com.br/)
-- 📫 You can reach me by LinkedIn feel free to contact me by sending a direct message
+- 📫 You can reach me by LinkedIn feel free to contact me by sending a direct message [in linkedin](https://www.linkedin.com/in/sampaio-samuel/)
 
 
 ## Here you can find more than 80 tips of #Python and #DevOps
